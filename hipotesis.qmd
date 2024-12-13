@@ -1,0 +1,14 @@
+::: {style="text-align: justify"}
+## 4. Hipótesis de investigación
+
+**H1**: individuos de orientación política de derecha tienen mayor probabilidad de justificar la violencia de Carabineros, mientras que individuos de orientación política de izquierda, tienen mayor probabilidad de justificar la violencia de manifestantes.
+
+**H2**: individuos que indiquen mayor miedo a manifestantes, tienen mayor probabilidad de justificar la violencia de Carabineros, mientras que individuos que indiquen mayor miedo a Carabineros, tienen mayor probabilidad de justificar la violencia de manifestantes.
+
+**H3**: hay una percepción diferenciada del miedo a los actores relacionados con la protesta social según orientación política. Personas de derecha sienten más miedo por los manifestantes, mientras que personas de izquierda sienten más miedo a Carabineros.
+
+**H4**: existe un efecto interactivo entre orientación política de derecha y el miedo a manifestantes, aumentando la probabilidad de justificar la violencia de Carabineros.
+
+**H5**: existe un efecto interactivo entre orientación política de izquierda y el miedo a Carabineros, aumentando la probabilidad de justificar la violencia de manifestantes.
+
+:::

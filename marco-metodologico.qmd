@@ -1,0 +1,127 @@
+::: {style="text-align: justify"}
+## 5. Metodología
+
+### 5.1 Datos
+
+El instrumento de medición utilizado para esta investigación es el Estudio Longitudinal Social de Chile (ELSOC) del Centro de Estudios de Conflicto y Cohesión Social de Chile (COES). Esta encuesta tiene una estrategia de muestreo probabilística y multietápica, seleccionando los casos por ciudades, bloques, viviendas e individuos, incluyendo en la población del estudio a hombres y mujeres entre 18 a 75 años en zonas urbanas de 40 ciudades del país (Centro de Estudios de Conflicto y Cohesión Social, 2022). El diseño muestral de la encuesta se centra en zonas urbanas, con mayor representación de las tres ciudades más grandes del país, lo que asegura una buena representatividad para un fenómeno urbano como la protesta social. El diseño muestral de la encuesta alcanza una representatividad del 77% de la población total del país, y un 93% de la población urbana. Para mitigar la pérdida de participantes a lo largo del tiempo, el estudio tipo panel emplea dos muestras independientes, una original y otra de refresco. En esta investigación, se utilizará la versión más reciente de la encuesta, cuyos datos fueron levantados entre julio y noviembre de 2022.
+
+Debido a la facilidad de la interpretación y la simplicidad en el manejo de los datos, los casos perdidos de la encuesta fueron tratados siguiendo un criterio de eliminación por lista (listwise), descartando los casos que presentan al menos un dato perdido. De este modo, la muestra efectiva disminuye a 820.
+
+### 5.2 Variables
+
+Los indicadores señalados en la tabla 1 corresponde a las variables dependientes: justificación de la violencia de Carabineros y justificación de la violencia de manifestantes, y corresponden a la siguiente pregunta: ¿En qué medida cree usted que se justifican o no se justifican las siguientes situaciones?: 1. Que Carabineros use la fuerza para reprimir marchas pacíficas; 2. Que estudiantes tiren piedras a Carabineros. Estos indicadores, centrados en el uso de la fuerza por parte de los actores involucrados en la protesta social, son parte del módulo de conflicto social de la encuesta. Para ambas variables, las categorías de respuestas corresponden a una escala Likert de 1 a 5.
+
+**Tabla 1: Variables dependientes**
+
++----------------------------------------+------------------------------------------------------------------------+-------------------+------------------+
+| Concepto                               | Indicador                                                              | Valores           | Frecuencias (%)  |
++========================================+========================================================================+===================+==================+
+| Justificación violencia de Carabineros | Que Carabineros use la fuerza para reprimir una manifestación pacifica | 1.  Nunca         | 1 : 558 (68.0%)  |
+|                                        |                                                                        | 2.  Pocas Veces   |                  |
+|                                        |                                                                        | 3.  Algunas Veces | 2 : 107 (13.0%)  |
+|                                        |                                                                        | 4.  Muchas Veces  |                  |
+|                                        |                                                                        | 5.  Siempre       | 3 : 100 ( 12.2%) |
+|                                        |                                                                        |                   |                  |
+|                                        |                                                                        |                   | 4 : 35 (4.3%)    |
+|                                        |                                                                        |                   |                  |
+|                                        |                                                                        |                   | 5: 20 (2.4%)     |
++----------------------------------------+------------------------------------------------------------------------+-------------------+------------------+
+| Justificación violencia manifestantes  | Que estudiantes tiren piedras a Carabineros en una marcha              | 1.  Nunca         | 1 : 698 (85.1%)  |
+|                                        |                                                                        | 2.  Pocas Veces   |                  |
+|                                        |                                                                        | 3.  Algunas Veces | 2 : 72 (8.8%)    |
+|                                        |                                                                        | 4.  Muchas Veces  |                  |
+|                                        |                                                                        | 5.  Siempre       | 3 : 34 (4.1%)    |
+|                                        |                                                                        |                   |                  |
+|                                        |                                                                        |                   | 4 : 5 (0.6%)     |
+|                                        |                                                                        |                   |                  |
+|                                        |                                                                        |                   | 5 : 11 (1.3%)    |
++----------------------------------------+------------------------------------------------------------------------+-------------------+------------------+
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+Para distinguir la orientación política de los individuos, usaremos como indicador la escala de auto ubicación política entre izquierda y derecha. La variable original es una escala del 0 al 12, en donde 0 a 4 corresponde a izquierda, 5 es centro, de 6 a 10 corresponde a derecha, 11 a independiente y 12 a ninguno (apolítico). Esta variable fue recodificada con los valores presentados en la tabla 2.
+
+\*\*Tabla 2: Variables independientes\
+
++----------------------------------------+--------------------------------------------------------------------------------+---------------+------------------+
+| Concepto                               | Indicador                                                                      | Valores       | Frecuencias (%)  |
++========================================+================================================================================+===============+==================+
+| Orientación Política                   | Autoubicación: izquierda o derecha                                             | 1.  Izquierda | 1 : 157 (19.1%)  |
+|                                        |                                                                                | 2.  Centro    |                  |
+|                                        |                                                                                | 3.  Derecha   | 2 : 263 (32.1%)  |
+|                                        |                                                                                | 4.  Apolítico |                  |
+|                                        |                                                                                |               | 3 : 130 (15.9%)  |
+|                                        |                                                                                |               |                  |
+|                                        |                                                                                |               | 4 : 270 (32.9%)  |
++----------------------------------------+--------------------------------------------------------------------------------+---------------+------------------+
+| Miedo a manifestantes violentos        | Grado de miedo: Los manifestantes violentos en las protestas                   | 1.  Nada      | 1 : 27 (3.3%)    |
+|                                        |                                                                                | 2.  Poco      |                  |
+|                                        |                                                                                | 3.  Algo      | 2 : 42 (5.1%)    |
+|                                        |                                                                                | 4.  Bastante  |                  |
+|                                        |                                                                                | 5.  Mucho     | 3 : 116 (14.1%)  |
+|                                        |                                                                                |               |                  |
+|                                        |                                                                                |               | 4 : 304 (37.2%)  |
+|                                        |                                                                                |               |                  |
+|                                        |                                                                                |               | 5 : 331 (40.4%)  |
++----------------------------------------+--------------------------------------------------------------------------------+---------------+------------------+
+| Miedo a Carabineros en manifestaciones | Grado de miedo: El accionar de las fuerzas de seguridad en las manifestaciones | 1.  Nada      | 1 : 101 (12.3%)  |
+|                                        |                                                                                | 2.  Poco      |                  |
+|                                        |                                                                                | 3.  Algo      | 2 : 91 (11.1%)   |
+|                                        |                                                                                | 4.  Bastante  |                  |
+|                                        |                                                                                | 5.  Mucho     | 3 : 198 (24.1%)  |
+|                                        |                                                                                |               |                  |
+|                                        |                                                                                |               | 4 : 252 (30.7%)  |
+|                                        |                                                                                |               |                  |
+|                                        |                                                                                |               | 5 : 178 (21.7%)  |
++----------------------------------------+--------------------------------------------------------------------------------+---------------+------------------+
+
+Para medir el miedo a manifestantes y Carabineros, se escogieron variables que preguntan directamente por estos actores. ¿En qué medida le generan miedo los siguientes actores y situaciones referidos a las protestas iniciadas a mediados de Octubre? 1. Los manifestantes violentos en las protestas. 2. El accionar de las fuerzas de seguridad pública en las manifestaciones. Las categorías de respuesta corresponden a una escala Likert de cinco categorías de respuestas.
+
+Como variables de control se eligieron cuatro variables sociodemográficas: sexo, edad, nivel educativo y pertenencia a grupo indígena. El nivel educacional de los entrevistados fue recodificado de 9 a 5 categorías de respuesta, siguiendo la codificación CINE 2011 (UNESCO, 2013). La tabla 3 muestra los valores y frecuencias para las variables de control mencionadas.
+
+**Tabla 3: Variables de control**
+
++-------------+------------------------------+------------------------------------+--------------------+
+| Concepto    | Indicador                    | Valores / Frecuencias              | Frecuencias (%)    |
++=============+==============================+====================================+====================+
+| Sexo        | Sexo                         | 1.  Hombre                         | 1: 302 (36.8%)     |
+|             |                              | 2.  Mujer                          |                    |
+|             |                              |                                    | 2: 518 (63.2%)     |
++-------------+------------------------------+------------------------------------+--------------------+
+|             | Edad                         | Media (DE): 49.4 (15.5)            | 1 : 98 (12.0 %)    |
+|             |                              |                                    |                    |
+|             |                              | min ≤ med ≤ max:                   | 2 : 82 (10.0%)     |
+|             |                              |                                    |                    |
+|             |                              | 21 ≤ 50 ≤ 83                       | 3 : 354 (43.2%)    |
+|             |                              |                                    |                    |
+|             |                              | IQR (CV): 26 (0.3)                 | 4 : 130 (15.9%)    |
+|             |                              |                                    |                    |
+|             |                              |                                    | 5 : 156 (19.0%)    |
++-------------+------------------------------+------------------------------------+--------------------+
+|             | Pertenencia a grupo indígena | 0\. No pertenece a grupo indígena  | 0 : 744 ( 91.0% )  |
+|             |                              |                                    |                    |
+|             |                              | 1\. Pertenence a grupo indígena    | 1 : 74 ( 9.0% )    |
++-------------+------------------------------+------------------------------------+--------------------+
+
+### 5.3 Método
+
+En concordancia con los objetivos de esta investigación y las hipótesis planteadas, se utilizarán dos tipos de análisis. En primer lugar, estadísticos descriptivos univariados y bivariados para explorar la distribución de las variables seleccionadas, así como correlaciones para observar las relaciones entre estas variables. Finalmente, debido a la naturaleza categórica de las variables dependientes e independientes, se utilizarán una serie de modelos de regresión logística ordinal con efectos de interacción, denominado por Agresti (2018), como cumulative link models. La ventaja de estos modelos, es que se aproximan a los modelos lineales, al mismo tiempo que nos permiten tratar la variable dependiente como propiamente categórica (Christensen, 2011).
+
+El modelo extiende la lógica de una regresión logística convencional, al utilizar el logaritmo natural de las probabilidades acumuladas del resultado binario (≤𝑗,\>𝑗) (Agresti, 2018, p. 301).
+
+𝑙𝑜𝑔𝑖𝑡\[𝑃(𝑦 ≤𝑘⃓ 𝑥)\]=𝑙𝑜𝑔𝑃(𝑌 ≤𝑘⃓ 𝑥) 1− 𝑃(𝑌 ≤𝑘⃓ 𝑥) = 𝛼𝑘−(𝛽1𝑥1+𝛽2𝑥2… 𝛽𝑛𝑥𝑛)
+
+El modelo estima simultáneamente k-1 ecuaciones, siendo k el número de categorías de respuestas de la variable dependiente. Cada ecuación tiene su propio intercepto 𝛼𝑘, pero comparten la pendiente 𝛽𝑛 para cada todas las ecuaciones, al asumir que los efectos de las variables independientes (𝛽𝑛), se mantiene proporcional para todos los valores de la variable dependiente. Esta suposición, a corroborar más adelante, se denomina supuesto de proporcionalidad o líneas paralelas.
+
+Para cada variable dependiente se especifican cinco modelos en una escala de complejidad creciente. El primero incluye únicamente la orientación política. El segundo añade el miedo, mientras que el tercero incorpora las variables de control. El cuarto modelo corresponde a la interacción entre miedo y orientación política, y finalmente, el quinto modelo suma a esta interacción las variables sociodemográficas de control.
+
+1.  𝛼𝑘− 𝛽1 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑙í𝑡𝑖𝑐𝑎
+
+2.  𝛼𝑘− (𝛽1 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑙í𝑡𝑖𝑐𝑎 + 𝛽2 𝑚𝑖𝑒𝑑𝑜)
+
+3.  𝛼𝑘− (𝛽1 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑙í𝑡𝑖𝑐𝑎 + 𝛽2 𝑚𝑖𝑒𝑑𝑜+ 𝛽𝑠𝑒𝑥𝑜+ 𝛽𝑒𝑑𝑎𝑑+ 𝛽𝑛𝑖𝑣𝑒𝑙 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑣𝑜+𝛽𝑔𝑟𝑢𝑝𝑜 𝑖𝑛𝑑í𝑔𝑒𝑛𝑎 )
+
+4.  𝛼𝑘−(𝛽1 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑙í𝑡𝑖𝑐𝑎∗ 𝛽2 𝑚𝑖𝑒𝑑𝑜)
+
+5.  𝛼𝑘−(𝛽1 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑐𝑖ó𝑛 𝑝𝑜𝑙í𝑡𝑖𝑐𝑎∗𝛽2 𝑚𝑖𝑒𝑑𝑜+ 𝛽𝑠𝑒𝑥𝑜+ 𝛽𝑒𝑑𝑎𝑑+ 𝛽𝑛𝑖𝑣𝑒𝑙 𝑒𝑑𝑢𝑐𝑎𝑡𝑖𝑣𝑜+𝛽𝑔𝑟𝑢𝑝𝑜 𝑖𝑛𝑑í𝑔𝑒𝑛𝑎 )
+:::

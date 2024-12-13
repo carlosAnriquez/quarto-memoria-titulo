@@ -1,0 +1,171 @@
+::: {style="text-align: justify"}
+## 6. Resultados
+
+Con el fin de exponer los resultados de esta investigación, los reportes se dividirán en tres secciones. En primer lugar, un análisis descriptivo para observar la distribución de las variables dependientes y de las variables independientes. También, se presentan las correlaciones de Pearson entre las variables de interés. En segundo lugar, se exponen los resultados de los modelos especificados anteriormente. Finalmente, se chequeará el supuesto de proporcionalidad o de líneas paralelas para corroborar la robustez de los modelos especificados.
+
+### 6.1 Análisis descriptivo
+
+**Figura 1: Justificación de la violencia de Carabineros**
+
+Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La justificación de la violencia por parte de Carabineros se midió con la pregunta: ¿En qué medida cree usted que se justifican o no se justifican las siguientes situaciones? que Carabineros use la fuerza para reprimir una manifestación pacífica. La figura 1, presenta la distribución de las respuestas para este indicador. En primer lugar, destaca que la mayoría de los encuestados no justifica que Carabineros use la fuerza en estas circunstancias. Un 68% de los encuestados no justifican nunca la violencia policial. No obstante, un 32% justifica la violencia pocas o algunas veces. Por otro lado, tan solo un 6.7% de la muestra justifican esta forma de violencia muchas veces o siempre.
+
+**Figura 2: Justificación de la violencia de manifestantes**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La justificación de la violencia de manifestantes se midió con la misma pregunta: ¿En qué medida cree usted que se justifican o no se justifican las siguientes situaciones? que estudiantes tiren piedras a Carabineros en una marcha. La figura 2 muestra la distribución del indicador mencionado. Podemos advertir que la justificación de la violencia de manifestantes es menor que la de Carabineros. 85.1% de los encuestados no justifica la violencia de manifestantes, y aquellos que lo hacen pocas veces o algunas veces alcanzan un 12.9%. Finalmente, tan solo un 1.9% de la muestra justifica la violencia de manifestantes muchas veces o siempre.
+
+**Figura 3: Justificación de la violencia de Carabineros según orientación política**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La figura 3 muestra el promedio de justificación de la violencia de Carabineros según orientación política. En primer lugar, cabe advertir que este promedio es bajo para todas las orientaciones políticas, sin embargo, la justificación de la violencia de Carabineros es un fenómeno de percepción diferenciada según orientación política. Los encuestados que se identifican con la derecha son quienes más justifican la violencia policial, con un promedio de 1.78. Quienes se identifican como de centro o apolítico, presentan un promedio de justificación de la violencia de Carabineros ligeramente inferior, situándose en 1.62, pero superior a los encuestados de izquierda, que es de 1.38.
+
+**Figura 4: promedio de justificación de la violencia de manifestantes según orientación política**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La figura 4 presenta el promedio de justificación de la violencia de manifestantes según orientación política. Aunque los promedios son menores para esta forma de violencia, similar a lo observado con la justificación de la violencia de Carabineros, existe una percepción diferenciada según orientación política. Los individuos de izquierda presentan un promedio más alto de justificación de la violencia de manifestantes, alcanzando un 1.48. En comparación, los encuestados que se identifican con la derecha política presentan un promedio de 1.16. Al igual que con la justificación de la violencia de Carabineros, los encuestados apolíticos y de centro presentan un promedio similar a la derecha política con valores de 1.18 y 1.20, respectivamente.
+
+**Figura 5: miedo a Carabineros**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+El miedo hacia Carabineros se midió con la pregunta: ¿En qué medida le generan miedo los siguientes actores y situaciones referidos a las protestas iniciadas a mediados de Octubre? El accionar de las fuerzas de seguridad pública en las manifestaciones. La figura 5 muestra la distribución del indicador mencionado. En primer lugar, podemos advertir que la mayoría de los encuestados, un 76.5%, advierte sentir algo, bastante o mucho miedo al accionar de Carabineros en manifestaciones. Por otra parte, solo un 23.4% de los encuestados reporta sentir nada o poco miedo al accionar de Carabineros en las manifestaciones.
+
+**Figura 6: miedo a manifestantes violentos**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+El miedo a manifestantes violentos se midió con la misma pregunta la pregunta ¿En qué medida le generan miedo los siguientes actores y situaciones referidos a las protestas iniciadas a mediados de Octubre? Los manifestantes violentos en las protestas. La figura 6 revela que los encuestados sienten más miedo a manifestantes violentos que a Carabineros. 91.6% de los individuos encuestados sentir algo, bastante o mucho miedo, mientras que solo un 8.4% reporta sentir nada o poco miedo a los manifestantes violentos. Así también, quienes sienten mucho miedo a manifestantes alcanza un 40.4% comparado con un 21.7% para Carabineros.
+
+**Figura 7: promedio de miedo a Carabineros según orientación política**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+Al igual que en el caso de la justificación de la violencia, el miedo a los actores involucrados en la protesta social es un fenómeno de percepción diferenciada según orientación política. Como se muestra en la figura 7, los individuos de izquierda indican más miedo al accionar de Carabineros en las manifestaciones, con un promedio de 3.77, en comparación con los encuestados de derecha, cuyo promedio es de 2.72. Por otra parte, los grupos de centro y apolíticos presentan promedios levemente menores a la izquierda y mayores que los encuestados de derecha con 3.37 y 3.5, respectivamente.
+
+**Figura 8: promedio de miedo a manifestantes según orientación política**
+
+ente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+Considerando la información proporcionada por la figura 8, se observa que el promedio de miedo a manifestantes violentos es mayor que el promedio de miedo a Carabineros para todas las orientaciones políticas. Además, los entrevistados de izquierda presentan los niveles más bajos de miedo a manifestantes, con un valor de 3.83. En cuanto a los grupos de centro y apolíticos, presentan valores más altos que la izquierda, con 4.05 y 4.13, respectivamente, pero menores que la derecha, cuyo promedio es de 4.21.
+
+**Tabla 4: Correlaciones de Pearson entre justificación de la violencia, miedo a los actores involucrados en la protesta y orientación política**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820). \* p \< 0.05; \*\* p \< 0.01; \*\*\* p \< 0.001.
+
+Uno de los requisitos de la regresión logística binaria, extensible a los modelos de regresión logística ordinal, es la ausencia de colinealidad entre las variables predictoras. Un alto grado de colinealidad, implica la obtención de coeficientes de regresión elevados, dificultando estimar el efecto de las variables independientes sobre la dependiente (Cea, 2004). En la tabla 4, se presentan las correlaciones de Pearson entre justificación de la violencia, el miedo a los actores involucrados en la protesta y la orientación política. Aunque ninguna de las correlaciones es elevada, todas resultan significativas. Respecto a la justificación de la violencia policial, se observa que, un mayor miedo al accionar de Carabineros en las manifestaciones, está asociado con una disminución n la justificación de esta forma de violencia (-0.128, p \< 0.001). En cuanto a la orientación política, debemos recordar que fue codificada de la siguiente manera: 1. Izquierda; 2. Centro; 3. Derecha; 4. Apolítico. Así también, a medida que nos alejamos del valor izquierda en la escala de orientación política, más se justifica la violencia de Carabineros (0.074, p \< 0.05). Finalmente, a medida que aumenta el miedo a manifestantes violentos, más se justifica la violencia policial (0.072, p \< 0.05).
+
+En cuanto a la justificación de la violencia de manifestantes, se observa que, a medida que aumenta el grado de miedo a Carabineros, más se justifica esta forma de violencia (0.092, p \< 0.01). De igual manera, a medida que aumenta el miedo a manifestantes violentos, disminuye la justificación de que estudiantes tiren piedras a Carabineros (-0.154, p \< 0.001). Respecto a la orientación política, podemos advertir que a medida que nos acercamos a la izquierda política, más se justifica la violencia de manifestantes (-0.154, p \< 0.001). Así también, a medida que nos alejamos de la izquierda, aumenta el miedo a manifestantes violentos (0.19, p \< 0.001). Como nota adicional, podemos advertir que a medida que aumenta el grado de miedo a manifestantes, aumentan el miedo a Carabineros (0.097, p \< 0.01).
+
+En resumen, la información proporcionada en esta sección nos permite identificar cinco grandes hallazgos. En primer lugar, la justificación de la violencia es un fenómeno poco común, ya que la mayoría de las personas no justifica ningún tipo de violencia. No obstante, los encuestados tienden a justifican más la violencia de Carabineros que la de manifestantes, siendo esta última la forma menos justificada de violencia.
+
+En segundo lugar, hay hallazgos parciales que, en concordancia con la hipótesis 1, sugieren que la justificación de la violencia es un fenómeno de percepción diferenciada según orientación política. Las correlaciones de Pearson presentadas en la tabla 4, indican que a medida que nos alejamos del valor izquierda en la escala de orientación política, más se justifica la violencia de Carabineros (0.074, p \< 0.05). Asimismo, a medida que nos acercamos a la izquierda política, más se justifica la violencia de manifestantes (-0.154, p \< 0.001). De igual forma, los promedios de justificación de la violencia según orientación política, graficados en las figuras 3 y 4, indican que individuos de izquierda justifican más la violencia de manifestantes, mientras que individuos de derecha justifican más la violencia de Carabineros.
+
+En tercer lugar, las correlaciones de Pearson de la tabla 4, presentan evidencia parcial para las hipótesis 2, respecto a la relación entre miedo y justificación de la violencia. Cuando aumenta el miedo a manifestantes violentos, aumenta la probabilidad de que se justifique de la violencia policial en un 7%, mientras que cuando aumenta el miedo a Carabineros, aumenta la probabilidad de justificar la violencia de manifestantes en un 9%.
+
+En cuarto lugar, las figuras 7 y 8 muestran evidencia contradictoria respecto a las hipótesis 3, que indica una percepción diferenciada del miedo a los actores relacionados con la protesta social según orientación política. Aunque existen diferencias en los promedios entre izquierda y derecha, ambas orientaciones sienten más miedo por manifestantes violentos que por el accionar de Carabineros en las manifestaciones.
+
+Por otro parte, la información presentada en esta sección revela hallazgos significativos de las percepciones de los grupos más numerosos de la muestra: apolítico y centro. Aunque no se formularon hipótesis respecto a estos grupos, se observa que sus promedios de justificación de la violencia similar a los encuestados de derecha. Sin embargo, presentan altos niveles de miedo, tanto a Carabineros como a manifestantes violentos. Estos hallazgos van en línea con estudios previos (Centro de Estudios de Conflicto y Cohesión Social, 2023), que sugieren que los individuos con menores niveles de politización e involucramiento tienden a mostrar una mayor volatilidad en sus actitudes políticas. Esta volatilidad se manifiesta en una justificación de la violencia que es comparable a la de los encuestados de derecha, pero con niveles más altos de miedo tanto hacia Carabineros como hacia manifestantes violentos. Estos resultados refuerzan la idea de que una menor politización puede estar asociada con una mayor inestabilidad en las actitudes hacia la violencia y la seguridad en contextos de protesta. Así también, sabemos que a medida en que aumenta el miedo a Carabineros, también aumenta el miedo a manifestantes violentos (0.199, p \< 0.001), lo que sugiere que hay un grupo que siente miedo a ambos grupos ligados a la protesta social.
+
+### 6.2 Análisis multivariado
+
+En esta sección, se analizarán los efectos directos e interactivos de las variables independientes sobre las dependientes en una serie de regresiones logísticas ordinales. La exposición de esta sección se divide en tres partes: 1. Efectos directos 2. Efectos de interacción 3. Supuestos. En cada sección, se presentan tablas separadas para las dos variables dependientes de esta investigación. Para observar el efecto de las variables independientes sobre la dependiente, se interpretarán los odds ratio (OR), o razón de probabilidad entre la ocurrencia o no ocurrencia de un evento. Para una regresión logística ordinal, esta medida corresponde a la transformación exponencial de los logs-odds del modelo, en donde:
+
+𝑙𝑜𝑔 𝑜𝑑𝑑𝑠=log(𝑃(𝑦 ≤𝑗)\|𝑋\|𝑃(𝑌\>𝑗)\|𝑋\|)= 𝛼𝑗− 𝛽𝑥 𝑜𝑑𝑑𝑠 𝑟𝑎𝑡𝑖𝑜=𝑒𝛼𝑗− 𝛽𝑥
+
+Así, el odds ratio asociado a un cambio unitario en X es 𝑒𝛽1. Cuando 𝛽1=0 el OR es 1, lo que indica que no hay cambio en las probabilidades de ocurrencia con un aumento de X. Si 𝛽1\>0, el OR \> 1, lo que indica que un aumento en X incrementa las probabilidades de ocurrencia del evento Y. Finalmente, si 𝛽1\<0, el OR \< 1, lo que indica que un aumento en X disminuye las probabilidades de ocurrencia. Los odds ratio pueden interpretarse como porcentaje restándole 1 y multiplicando por 100.
+
+### 6.2.1 Efectos directos
+
+**Tabla 5: Regresión logística ordinal para la justificación de la violencia de Carabineros**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La tabla 5 presenta las regresiones logísticas ordinales para la justificación de la violencia de Carabineros. En el primer modelo, se observa que la orientación política tiene un efecto positivo y significativo sobre la justificación de la violencia de Carabineros. Los encuestados de centro tienen un 37% más de probabilidad de justificar esta forma de violencia en comparación con los de izquierda (OR: 1.37, p \< 0.05), mientras que los encuestados de derecha tienen un 59% más de probabilidad de justificar la violencia de Carabineros respecto a los encuestados de izquierda (OR: 1.59, p \< 0.01). Asimismo, quienes se identifican como apolíticos, tienen un 33% más de probabilidad de justificar la violencia en comparación a los encuestados de izquierda (OR: 1.33, p \< 0.05).
+
+El segundo modelo revela que, al controlar por miedo a manifestantes violentos, el efecto de la orientación política disminuye levemente. Los encuestados de centro tienen un 35% más de probabilidad de justificar la violencia de Carabineros respecto a los encuestados de izquierda, comparado con un 37% en el modelo anterior (OR: 1.35, p \< 0.05). El efecto de ser derecha disminuye de 59% a 54% en comparación a los encuestados de izquierda (OR: 1.54, p \< 0.01). Así también, el efecto de ser apolítico deja de ser significativo estadísticamente.
+
+Respecto al miedo a manifestantes violentos en las protestas, el modelo 2 indica que los efectos significativos se encuentran en los extremos: poco y bastante miedo. La probabilidad de justificar la violencia Carabineros de quienes sienten poco miedo a manifestantes violentos aumenta en un 120% respecto a quienes sienten nada de miedo (OR: 2.20, p \< 0.05). También, la probabilidad de justificar la violencia de Carabineros de quienes sienten mucho miedo a manifestantes aumenta en un 82% en comparación con los encuestados que indican nada de miedo a manifestantes violentos (OR: 1.82, p \< 0.05).
+
+El modelo 3, que incluye las variables de sociodemográficas de control, mantiene significativos los efectos tanto del miedo a manifestantes violentos como el de orientación política. En cuanto a esta última, el efecto de la categoría centro se mantiene igual al modelo 2, pero la probabilidad de justificar la violencia de Carabineros para los encuestados de derecha aumenta de 54 a 58% en comparación a los encuestados de izquierda (OR: 1.58, p \< 0.01).
+
+El efecto del miedo a manifestantes violentos cambia levemente. Sentir poco miedo a manifestantes violentos aumenta a 124% las probabilidades de justificar la violencia de Carabineros respecto a quienes sienten nada de miedo a manifestantes violentos (OR: 2.24, p \< 0.05), en comparación con 120% en el modelo anterior. Sentir bastante miedo a manifestantes violentos aumenta en un 98% las probabilidades de justificar la violencia de Carabineros respecto a quienes sienten nada de miedo a manifestantes (OR: 1.98, p \< 0.05), en contraste con 82% en el modelo anterior.
+
+En cuanto a las variables de control, el modelo 3 revela que el sexo, el nivel educativo y la edad tienen un efecto significativo en la justificación de la violencia de Carabineros. Las mujeres tienen un 25% menos de probabilidad de justificar esta forma de violencia respecto a los hombres (OR: 0.75, p \< 0.01). Así también, un nivel educativo de primaria y secundaria baja aumenta en un 46% la probabilidad de justificar la violencia de Carabineros en comparación a los encuestados con primaria incompleta (OR: 1,46, p \< 0.05). Finalmente, aumentando la edad, la probabilidad de justificar la violencia de Carabineros aumenta en un 1% (OR: 1.01, p \< 0.05).
+
+**Tabla 6: Regresión logística ordinal para la justificación de la violencia de manifestantes**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La tabla 6 presenta los resultados de las regresiones logísticas ordinales para la justificación de la violencia de manifestantes. El primer modelo muestra que la orientación política tiene un efecto significativo estadísticamente en la justificación de esta forma de violencia. Los encuestados de centro tienen un 44% menos de probabilidad de justificar la violencia de manifestantes respecto a los encuestados de izquierda (OR: 0.56, p \< 0.001). Asimismo, quienes se identifican de derecha tienen un 53% menos de probabilidad de justificar esta forma de violencia en comparación a los encuestados de izquierda (OR: 0.47, p \< 0.001). Por su parte, los encuestados apolíticos tienen un 45% menos de probabilidades de justificar la violencia de manifestantes respecto a los encuestados de izquierda (OR: 0.55, p \< 0.001).
+
+En el segundo modelo, se observa que el miedo a Carabineros no es estadísticamente significativo en la justificación de la violencia de manifestantes. No obstante, al incluir esta variable, los odds ratios asociados a la orientación política disminuyen levemente. Los encuestados de centro reducen su probabilidad de justificar la violencia de manifestantes de un 44% a un 41% respecto a los encuestados de izquierda (OR: 0.59, p \< 0.001). Los encuestados de derecha disminuyen su probabilidad de justificar la violencia de manifestantes de un 53% a un 48% en comparación con los encuestados de izquierda (OR: 0.52, p \< 0.001). De manera similar, para los apolíticos, la probabilidad de justificar la violencia de manifestantes disminuye de un 45% a un 43% respecto a los encuestados de izquierda (OR: 0.57, p \< 0.001).
+
+El modelo 3 muestra que los logs odds asociados a la orientación política aumentan levemente respecto al modelo anterior al controlar por las variables sociodemográficas seleccionadas. Ser de centro aumenta de 41% a 44% la probabilidad de justificar la violencia de manifestantes respecto a los encuestados de izquierda (OR: 0.56, p \< 0.001). El efecto de ser de derecha aumenta en un 1% (OR: 0.51, p \< 0.001), mientras que el efecto de ser apolítico aumenta de 43% a 47% (OR: 0.53, p \< 0.001).
+
+Respecto a las variables de control, se observa que tener un nivel educativo de secundaria alta o de terciario ciclo corto, disminuye la probabilidad de justificar la violencia de manifestantes en un 37% respecto a los encuestados con un nivel de primaria incompleta (OR: 0.63, p \< 0.05). Así también, los encuestados con nivel educativo de terciaria y postgrado, tienen un 50% menos de probabilidad de justificar esta forma de violencia respecto a los encuestados con un nivel de primaria incompleta (OR: 0.50, p \< 0.01). Finalmente, a medida en que aumenta la edad, la probabilidad de justificar la violencia de manifestantes disminuye en un 2% (OR: 0.98, p \< 0.001).
+
+### 6.2.2 Efectos interactivos
+
+Para corroborar las hipótesis 4 y 5, respecto a las interacciones entre miedo y orientación política, se optó por dicotomizar las variables de miedo a manifestantes y a Carabineros, buscando simplificar la interpretación de las interacciones y considerando la distribución de las variables. Se optó dividir las variables entre quienes sienten nada, poco o algo de miedo y quienes sienten bastante o mucho, buscando recoger si existen diferencias entre distintos niveles de miedo.
+
+**Figura 9: recodificación miedo a Carabineros y miedo a manifestantes violentos**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+La figura 9 muestra la distribución para la recodificación de las variables de miedo a los actores relacionados con la protesta social. Como se observa, el miedo al accionar de las fuerzas de seguridad en las manifestaciones está balanceada entre quienes sienten nada, poco o algo de miedo (47.6%) y quienes sienten bastante o mucho miedo (52.4%). Por otra parte, 77.4% de los encuestados indica sentir bastante o mucho miedo a manifestantes violentos en las protestas, frente a un 22.6% de los encuestados que declara sentir nada, poco o algo de miedo.
+
+**Tabla 7: interacciones entre miedo a manifestantes violentos y orientación política para la justificación de la violencia policial**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+En relación con la justificación de la violencia ejercida por Carabineros, los resultados contradicen la hipótesis 4, ya que la interacción entre el miedo a los manifestantes violentos y la orientación política de derecha no es estadísticamente significativa. Al comparar el modelo 3 (que incluye miedo a manifestantes violentos, orientación política y variables de control) con el modelo 5 (que incluye las interacciones y las variables de control), se observa que tanto la orientación política como el nivel educativo pierden su relevancia estadística. Sin embargo, las variables de sexo y edad permanecen estadísticamente significativas. Aunque el ajuste global del modelo 5 es ligeramente superior al modelo 3, esta diferencia es mínima y podría no ser relevante en términos prácticos.
+
+**Tabla 8: interacciones entre miedo y orientación política para la justificación de la violencia de manifestantes**
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820).
+
+En cuanto a la justificación de la violencia por parte de manifestantes, los resultados contradicen la hipótesis 5, ya que el efecto interactivo entre orientación política de izquierda y el miedo a Carabineros no es significativo estadísticamente en la justificación de la violencia de esta forma de violencia. Al comparar el modelo 3, con el modelo 5, se observa que la orientación política de centro deja de ser estadísticamente significativa. No obstante, el efecto de las orientaciones de derecha (OR: 0.48, p \< 0.01) y apolítico (OR: 0.53, p \< 0.05) mantienen su significancia estadística.
+
+Además, tanto el nivel educativo como la edad continúan mostrando un efecto significativo sobre la justificación de la violencia de manifestantes. En términos generales, un mayor nivel educativo se asocia con una menor justificación de esta forma de violencia. Los encuestados con un nivel educativo de secundaria alta tienen un 37% menos de probabilidad de justificar la violencia de manifestantes en comparación con aquellos con un nivel de primaria incompleta (OR: 0.63, p \< 0,01). De manera similar, los encuestados con un nivel de educación terciaria corto tienen un 38% menos de probabilidad de justificar la violencia de manifestantes en comparación con los encuestados un nivel de primaria incompleta (OR: 0.62, p \< 0.05). Finalmente, quienes tienen un nivel terciario o de postgrado tienen un 51% menos de probabilidad de justificar la violencia de manifestantes respecto a quienes cursaron un nivel de primaria incompleta (OR: 0.49, p \< 0.01).
+
+### 6.3 Chequeo de supuestos
+
+Uno de los supuestos más importantes de una regresión logística ordinal, es el de proporcionalidad o de líneas paralelas. Este supuesto establece que el efecto de los logs odds del modelo es el mismo a través de todas las categorías de la variable dependiente. Es decir, aunque los umbrales 𝛼𝑗 cambian para cada categoría, el efecto de la variable independiente permanece constante a lo largo de las categorías de la variable dependiente. Las curvas para los distintos umbrales tienen la misma tasa de aumento o disminución, pero están desplazados horizontalmente entre ellos (Agresti, 2018, p. 302). Para chequear este supuesto, se utiliza la prueba de proporcionalidad de Brant. La hipótesis nula de esta prueba sostiene el supuesto de líneas paralelas, si el p valor es mayor a 0.05, indica que no hay evidencia suficiente para afirmar que los coeficientes varían, por ende, el supuesto se cumple. Por el contrario, si el p valor es menor a 0.05, indica que el efecto de las variables independientes no es constante, y por ende se rechaza la hipótesis nula.
+
+**Tabla 9: prueba de proporcionalidad de Brant para la justificación de la violencia de Carabineros**
+
+|                                 | X2    | Grados de libertad | Probabilidad |
+|---------------------------------|-------|--------------------|--------------|
+| Omnibus                         | 22.88 | 21                 | 0.349        |
+| Orientación política: Centro    | 0.67  | 3                  | 0.878        |
+| Orientación política: Derecha   | 3.56  | 3                  | 0.312        |
+| Orientación política: Apolítico | 5.38  | 3                  | 0.145        |
+| Miedo a manifestantes: Poco     | 0.001 | 3                  | 0.999        |
+| Miedo a manifestantes: Algo     | 0.85  | 3                  | 0.835        |
+| Miedo a manifestantes: Bastante | 0.009 | 3                  | 0.999        |
+| Miedo a manifestantes: Mucho    | 0.073 | 3                  | 0.994        |
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820). X2 = Prueba Chi cuadrado.
+
+**Tabla 10: prueba de proporcionalidad de Brant para la justificación de la violencia de manifestantes**
+
+|                                 | X2    | Grados de libertad | Probabilidad |
+|---------------------------------|-------|--------------------|--------------|
+| Omnibus                         | 20.54 | 21                 | 0.487        |
+| Orientación política: Centro    | 5.51  | 3                  | 0.137        |
+| Orientación política: Derecha   | 1.86  | 3                  | 0.600        |
+| Orientación política: Apolítico | 0.32  | 3                  | 0.954        |
+| Miedo a Carabineros: Poco       | 3.45  | 3                  | 0.326        |
+| Miedo a Carabineros: Algo       | 4.95  | 3                  | 0.175        |
+| Miedo a Carabineros: Bastante   | 3.12  | 3                  | 0.372        |
+| Miedo a Carabineros: Mucho      | 2.39  | 3                  | 0.494        |
+
+Fuente: Elaboración propia en base a datos ELSOC 2022 (n= 820). X2 = Prueba Chi cuadrado.
+
+Como se observa en las tablas 9 y 10, el test de proporcionalidad de Brant se cumple para las dos variables dependientes: la justificación de la violencia de Carabineros y de manifestantes. Así, podemos concluir que el efecto de las variables independientes tiene un efecto simétrico sobre ambas formas de justificación de la violencia.
+:::

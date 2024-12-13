@@ -1,0 +1,16 @@
+::: {style="text-align: justify"}
+
+## Resumen
+
+La presente investigación explora las relaciones entre la justificación de la violencia en contexto de protesta social, la orientación política y el miedo en Chile en el escenario post estallido social. Se propone que tanto el miedo como la orientación política juegan un papel clave en la evaluación normativa de la violencia, ya sea por parte de Carabineros o de los manifestantes. La investigación utiliza datos del Estudio Longitudinal Social de Chile (ELSOC), y se basa en modelos de regresión logística ordinal para analizar cómo la orientación política y el miedo influyen en las justificaciones de la violencia. Se proponen cinco hipótesis respecto a la relación entre estos elementos. Los hallazgos indican que las personas con orientación política de derecha tienen más probabilidades de justificar la violencia policial, mientras que aquellos con orientación de izquierda tienden a justificar más la violencia de los manifestantes. Otro hallazgo clave es que el miedo a manifestantes violentos aumenta la probabilidad de justificar la violencia de Carabineros, mientras que el miedo a Carabineros no es estadísticamente significativo en la justificación de la violencia de los manifestantes. Además, el nivel educativo y la edad se identifican como factores importantes: a mayor nivel educativo, menor justificación de ambas formas de violencia. Finalmente, se discuten los hallazgos respecto a la relación de la orientación política y el miedo en las justificaciones de la violencia en contextos de alta conflictividad social, como el vivido en Chile post estallido social. 
+
+Palabras clave: justificación de la violencia, orientación política, miedo, Carabineros, protesta social. 
+
+## Abstract
+
+This research explores the relationships between the justification of violence in the context of social protest, political orientation and fear in Chile in the post-social outbreak scenario. It is proposed that both fear and political orientation play a key role in the normative evaluation of violence, whether by Carabineros or protesters. The research uses data from the Longitudinal Social Study of Chile (ELSOC), and is based on ordinal logistic regression models to analyze how political orientation and fear influence the justifications of violence. Five hypotheses are proposed regarding the relationship between these elements. The findings indicate that people with a right-wing political orientation are more likely to justify police violence, while those with a left-wing orientation tend to justify protester violence more. Another key finding is that fear of violent protesters increases the likelihood of justifying Carabineros violence, while fear of Carabineros is not statistically significant in the justification of protester violence. Furthermore, educational level and age are identified as important factors: the higher the educational level, the lower the justification of both forms of violence. Finally, the findings regarding the relationship between political orientation and fear in the justifications of violence in contexts of high social conflict, such as that experienced in Chile after the social outbreak, are discussed. 
+
+Keywords: justification of violence, political orientation, fear, Carabineros, social protest.
+
+
+:::

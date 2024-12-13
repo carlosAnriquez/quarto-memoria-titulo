@@ -1,0 +1,35 @@
+
+
+project:
+  type: website
+
+website:
+  title: "Proyecto memoria de título"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resumen.qmd
+        text: Resumen
+      - href: introduccion.qmd
+        text: Introducción
+      - href: antecedentes.qmd
+        text: Antecedentes
+      - href: pregunta.qmd
+        text: Pregunta de investigación
+      - href: hipotesis.qmd
+        text: Hipótesis
+      - href: marco-metodologico.qmd
+        text: Metodología
+      - href: resultados.qmd
+        text: Resultados
+      - href: conclusiones.qmd
+        text: Conclusiones
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    
